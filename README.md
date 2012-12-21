@@ -1,3 +1,3 @@
-This makes acid (Dance) Music) run the machine.ck file to automatically schedule all the other elements.
+This modulates an acid bass-line through the circle of fifths and a few other scales.
 
 To run simply give the command: chuck Machine.ck
